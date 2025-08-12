@@ -81,8 +81,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityacheeze&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://streak-stats.demolab.com?user=Adityacheeze&theme=tokyonight" alt="streak"/>
+  <!-- Main GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityacheeze&show_icons=true&theme=tokyonight" alt="Adityacheeze's GitHub stats" />
+
+  <!-- Top languages (compact layout, show up to 8 languages) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityacheeze&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
+
+  <!-- Contribution calendar (SVG) -->
+  <br/>
+  <img src="https://ghchart.rshah.org/Adityacheeze" alt="Contribution chart" />
 </p>
 
 
