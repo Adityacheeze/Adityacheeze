@@ -37,6 +37,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) 
@@ -59,9 +60,9 @@
 |---------|-------------|------------|
 | [**Damage Vision AI**](https://github.com/Adityacheeze/Major_Project_Final) | YOLOv8-based vehicle damage detection with Flask & TensorFlow to perform severity analysis. | YOLOv8, Flask, TensorFlow, Python |
 | [**DevConnect**](https://github.com/Adityacheeze/DevConnect) | Full-stack platform uniting developer communities, with secure authentication & real-time collaboration. | React, TailwindCSS, Node.js, Express.js, MongoDB |
-| [**Nari Suraksha**](https://github.com/Adityacheeze/Nari_Suraksha) | Women empowerment platform with resources & support for social and economic growth. | React, Bootstrap |
-| [**Laravel CRUD App**](https://github.com/Adityacheeze/laravel-CRUD-app) | Simple CRUD application using Laravel MVC. | Laravel, PHP, MySQL, jQuery, JavaScript |
 | [**Railway Claims Tribunal (RCT) Portal**](https://github.com/Adityacheeze/Project_RCT_V3) | Government of India portal developed during my internship at Velocis Systems. Built reusable React components, integrated APIs, and optimized UI performance. | React, Bootstrap, Redux, Axios |
+| [**Nari Suraksha**](https://github.com/Adityacheeze/Nari_Suraksha) | Women empowerment platform with resources & support for social and economic growth. | React, Bootstrap |
+| [**Laravel CRUD App**](https://github.com/Adityacheeze/laravel-CRUD-app) | Simple CRUD application using Laravel MVC and MySQL Backend. | Laravel, PHP, MySQL, jQuery, JavaScript |
 
 ---
 
