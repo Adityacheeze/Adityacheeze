@@ -65,7 +65,7 @@
 | [**DevConnect**](https://github.com/Adityacheeze/DevConnect) | Full-stack platform uniting developer communities, with secure authentication & real-time collaboration. | React, TailwindCSS, Node.js, Express.js, MongoDB |
 | [**Railway Claims Tribunal (RCT) Portal**](https://github.com/Adityacheeze/Project_RCT_V3) | Government of India portal developed during my internship at Velocis Systems. Built reusable React components, integrated APIs, and optimized UI performance. | React, Bootstrap, Redux, Axios |
 | [**Nari Suraksha**](https://github.com/Adityacheeze/Nari_Suraksha) | Women empowerment platform with resources & support for social and economic growth. | React, Bootstrap |
-| [**Laravel CRUD App**](https://github.com/Adityacheeze/laravel-CRUD-app) | Simple CRUD application using Laravel MVC and MySQL Backend. | Laravel, PHP, MySQL, jQuery, JavaScript |
+| [**Laravel_Social_Media_App**](https://github.com/Adityacheeze/laravel-CRUD-app) | Full-stack Laravel application implementing CRUD operations, user authentication, with a MySQL backend and a dynamic front end powered by jQuery and JavaScript. | Laravel, PHP, MySQL, jQuery, JavaScript |
 
 ---
 
