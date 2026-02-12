@@ -87,12 +87,12 @@
 
 <p align="center">
   <!-- Top languages (compact layout, show up to 8 languages) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Dev404&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Dev404&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" /> -->
   <!-- Main GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Dev404&show_icons=true&theme=tokyonight" alt="Adityacheeze's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Dev404&show_icons=true&theme=tokyonight" alt="Aditya-Dev404's GitHub stats" />
   <br/>
   <!-- Contribution calendar (SVG) -->
-  <!-- <img src="https://ghchart.rshah.org/Adityacheeze" alt="Contribution chart" /> -->
+  <img src="https://ghchart.rshah.org/Aditya-Dev404" alt="Contribution chart" />
 </p>
 
 
