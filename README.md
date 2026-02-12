@@ -7,6 +7,7 @@
   <a href="https://leetcode.com/adityacheeze/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" /></a>
   <a href="https://codeforces.com/profile/adityacheeze"><img src="https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces" /></a>
   <a href="https://www.linkedin.com/in/aditya-mohan-gupta-a116b6256"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /></a>
+  <a href="https://github.com/Aditya-Dev404"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </p>
 
 ---
@@ -87,11 +88,12 @@
 
 <p align="center">
   <!-- Top languages (compact layout, show up to 8 languages) -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Dev404&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityacheeze&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
   <!-- Main GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Dev404&show_icons=true&theme=tokyonight" alt="Aditya-Dev404's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityacheeze&show_icons=true&theme=tokyonight" alt="Adityacheeze's GitHub stats" />
   <br/>
   <!-- Contribution calendar (SVG) -->
+  <h1>Aditya-Dev404 (work github)</h1>
   <img src="https://ghchart.rshah.org/Aditya-Dev404" alt="Contribution chart" />
 </p>
 
