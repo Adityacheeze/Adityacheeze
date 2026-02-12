@@ -87,9 +87,9 @@
 
 <p align="center">
   <!-- Top languages (compact layout, show up to 8 languages) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityacheeze&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Dev404&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
   <!-- Main GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityacheeze&show_icons=true&theme=tokyonight" alt="Adityacheeze's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Dev404&show_icons=true&theme=tokyonight" alt="Adityacheeze's GitHub stats" />
   <br/>
   <!-- Contribution calendar (SVG) -->
   <!-- <img src="https://ghchart.rshah.org/Adityacheeze" alt="Contribution chart" /> -->
@@ -105,5 +105,5 @@
   <a href="mailto:developer.aditya24@gmail.com"><img src="https://img.shields.io/badge/-developer.aditya24%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/adityacheeze/"><img src="https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/adityacheeze"><img src="https://img.shields.io/badge/-Codeforces-blue?style=flat-square&logo=Codeforces&logoColor=white"/></a>
-  <a href="https://github.com/Adityacheeze"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://github.com/Aditya-Dev404"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </p>
