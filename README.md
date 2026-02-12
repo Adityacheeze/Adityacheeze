@@ -88,10 +88,10 @@
 
 <p align="center">
   <!-- Top languages (compact layout, show up to 8 languages) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityacheeze&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityacheeze&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" /> -->
   <!-- Main GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityacheeze&show_icons=true&theme=tokyonight" alt="Adityacheeze's GitHub stats" />
-  <br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Adityacheeze&show_icons=true&theme=tokyonight" alt="Adityacheeze's GitHub stats" /> -->
+  <!-- <br/> -->
   <!-- Contribution calendar (SVG) -->
   <h1>Aditya-Dev404 (work github)</h1>
   <img src="https://ghchart.rshah.org/Aditya-Dev404" alt="Contribution chart" />
