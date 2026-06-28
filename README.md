@@ -93,7 +93,7 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Adityacheeze&show_icons=true&theme=tokyonight" alt="Adityacheeze's GitHub stats" /> -->
   <!-- <br/> -->
   <!-- Contribution calendar (SVG) -->
-  <h1>Aditya-Dev404 (work github)</h1>
+  <h1>Aditya-Dev404 (work github) : https://github.com/Aditya-Dev404 </h1>
   <img src="https://ghchart.rshah.org/Aditya-Dev404" alt="Contribution chart" />
 </p>
 
