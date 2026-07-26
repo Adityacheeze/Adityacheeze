@@ -221,7 +221,7 @@ Women empowerment platform providing educational resources, emergency support an
 
 # 📊 Contribution Graph
 
-## Previous GitHub (Razorpay Internship)
+## Previous GitHub (SDE Intern - Razorpay)
 
 https://github.com/Aditya-Dev404
 
@@ -233,7 +233,7 @@ https://github.com/Aditya-Dev404
 
 ---
 
-## Current GitHub (AI Builder)
+## Current GitHub (AI Builder - Razorpay)
 
 https://github.com/Aditya-RZPDev
 
@@ -272,9 +272,3 @@ https://github.com/Aditya-RZPDev
 </p>
 
 ---
-
-<p align="center">
-
-⭐️ If you like my work, consider starring my repositories!
-
-</p>
