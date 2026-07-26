@@ -105,54 +105,25 @@ Building AI-powered products, scalable web applications, and high-performance sy
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,ts,js,go,python,php,java,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,html,css" /><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,bootstrap,laravel,flask" /><br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,docker,kubernetes,aws,vercel" /><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,npm,jest,playwright,tensorflow" />
+
 </p>
 
 ---
 
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
-</p>
-
----
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask,mongodb" />
-</p>
-
----
-
-## Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,vercel,git,github" />
-</p>
-
----
-
-## AI & Developer Tools
-
-<p>
-
-- OpenAI APIs
-- Claude
-- Codex
-- Cursor
-- Playwright
-- Jest
-- Postman
-- VS Code
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
