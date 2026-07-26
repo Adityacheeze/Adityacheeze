@@ -43,7 +43,7 @@ Building AI-powered products, scalable web applications, and high-performance sy
 - 💼 **AI Builder + SDE @ Razorpay**
 - 🎓 B.Tech CSE (AI & ML) • KIET Group of Institutions (CGPA: **8.61**)
 - 🏆 **Knight** on LeetCode (Top **4.5%**)
-- ⚡ Solved **1200+ DSA Problems**
+- ⚡ Solved **1600+ DSA Problems**
 - 🌍 Global Rank **2068** in TCS CodeVita Season 12
 - 🤖 Passionate about AI-powered software engineering, scalable backend systems and modern web technologies
 - 💡 Love building products using **Agentic SDLC**, AI coding assistants and developer automation
@@ -160,36 +160,6 @@ A modern developer networking platform featuring authentication, profiles, conne
 
 ---
 
-## 🚆 Railway Claims Tribunal Portal
-
-Government of India portal developed during my internship at Velocis Systems.
-
-Built reusable React components, integrated APIs and optimized user experience.
-
-**Tech Stack**
-
-`React`
-`Redux`
-`Bootstrap`
-`Axios`
-
-🔗 https://github.com/Adityacheeze/Project_RCT_V3
-
----
-
-## 👩 Nari Suraksha
-
-Women empowerment platform providing educational resources, emergency support and awareness features.
-
-**Tech Stack**
-
-`React`
-`Bootstrap`
-
-🔗 https://github.com/Adityacheeze/Nari_Suraksha
-
----
-
 # 🚀 Professional Highlights
 
 - 🤖 AI Builder @ Razorpay
@@ -200,22 +170,6 @@ Women empowerment platform providing educational resources, emergency support an
 - 🤖 Built AI-powered engineering workflows
 - 🌍 Worked with React, TypeScript, Go, Node.js, Docker and Kubernetes
 - 🧠 Passionate about scalable software engineering and AI
-
----
-
-# 🏆 Achievements
-
-🥇 Knight on LeetCode (Top 4.5%)
-
-⚡ Solved **1600+ DSA Problems**
-
-🏅 Global Rank **2068** — TCS CodeVita Season 12
-
-🥈 2nd Place — Innotech 2022
-
-👨‍🏫 Mentored **150+ Students** in Competitive Programming & DSA
-
-🎤 AI Summit 2025 Event Coordinator
 
 ---
 
