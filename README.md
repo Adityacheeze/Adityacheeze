@@ -30,6 +30,9 @@ Building AI-powered products, scalable web applications, and high-performance sy
   <a href="https://github.com/Aditya-RZPDev">
     <img src="https://img.shields.io/badge/GitHub-Aditya--RZPDev-black?logo=github"/>
   </a>
+  <a href="https://github.com/Aditya-Dev404">
+    <img src="https://img.shields.io/badge/GitHub-Aditya--RZPDev-black?logo=github"/>
+  </a>
 
 </p>
 
@@ -204,7 +207,7 @@ Women empowerment platform providing educational resources, emergency support an
 
 🥇 Knight on LeetCode (Top 4.5%)
 
-⚡ Solved **1200+ Problems**
+⚡ Solved **1600+ DSA Problems**
 
 🏅 Global Rank **2068** — TCS CodeVita Season 12
 
@@ -213,20 +216,6 @@ Women empowerment platform providing educational resources, emergency support an
 👨‍🏫 Mentored **150+ Students** in Competitive Programming & DSA
 
 🎤 AI Summit 2025 Event Coordinator
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-RZPDev&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-RZPDev&layout=compact&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-RZPDev&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -253,30 +242,6 @@ https://github.com/Aditya-RZPDev
 <img src="https://ghchart.rshah.org/Aditya-RZPDev" />
 
 </p>
-
----
-
-# 💡 Engineering Philosophy
-
-> Build.
->
-> Measure.
->
-> Optimize.
->
-> Automate.
->
-> Repeat.
-
----
-
-# ☕ Fun Facts
-
-- ⚡ I enjoy optimizing slow systems until they become ridiculously fast.
-- 🤖 I automate repetitive engineering work using AI agents.
-- 🧩 Competitive programming is my favorite playground.
-- 🚀 I love shipping products fast without compromising quality.
-- 📈 Always looking for opportunities to improve performance and developer experience.
 
 ---
 
