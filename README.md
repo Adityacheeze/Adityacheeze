@@ -184,6 +184,15 @@ https://github.com/Aditya-Dev404
 <img src="https://ghchart.rshah.org/Aditya-Dev404" />
 
 </p>
+## Personal GitHub 
+
+https://github.com/Adityacheeze
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/Adityacheeze" />
+
+</p>
 
 ---
 
