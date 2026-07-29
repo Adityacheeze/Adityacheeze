@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Mohan Gupta</h1>
 
 <h3 align="center">
-AI Builder @ Razorpay • SDE @ Razorpay • Full Stack Engineer • Performance Engineering • Competitive Programmer
+AI Builder + SDE @ Razorpay • Full Stack Engineer • Performance Engineering • Competitive Programmer
 </h3>
 
 <p align="center">
@@ -183,7 +183,10 @@ https://github.com/Aditya-Dev404
 
 <img src="https://ghchart.rshah.org/Aditya-Dev404" />
 
+---
+
 </p>
+
 ## Personal GitHub 
 
 https://github.com/Adityacheeze
