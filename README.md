@@ -175,17 +175,6 @@ A modern developer networking platform featuring authentication, profiles, conne
 
 # 📊 Contribution Graph
 
-## Previous GitHub (SDE Intern - Razorpay)
-
-https://github.com/Aditya-Dev404
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/Aditya-Dev404" />
-
----
-
-</p>
 
 ## Personal GitHub 
 
@@ -199,7 +188,7 @@ https://github.com/Adityacheeze
 
 ---
 
-## Current GitHub (AI Builder - Razorpay)
+## Current GitHub (AI Builder - Razorpay) [Jul 2026 - Present ]
 
 https://github.com/Aditya-RZPDev
 
@@ -210,6 +199,19 @@ https://github.com/Aditya-RZPDev
 </p>
 
 ---
+
+## Previous GitHub (SDE Intern - Razorpay) [ Aug 2025 - Jun 2026 ]
+
+https://github.com/Aditya-Dev404
+
+<p align="center">
+<img width="800" height="150" alt="image" src="https://github.com/user-attachments/assets/75ed558e-d078-4c0b-bcb6-fdfe5b29e87c" />
+
+<!-- <img src="https://ghchart.rshah.org/Aditya-Dev404" /> -->
+
+---
+
+</p>
 
 # 📬 Connect With Me
 
