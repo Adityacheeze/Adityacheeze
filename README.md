@@ -95,6 +95,45 @@ Building AI-powered products, scalable web applications, and high-performance sy
 
 ---
 
+# 📊 Contribution Graph
+
+
+## Personal GitHub 
+
+https://github.com/Adityacheeze
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/Adityacheeze" />
+
+</p>
+
+---
+
+## Current GitHub (AI Builder - Razorpay) [Jul 2026 - Present ]
+
+https://github.com/Aditya-RZPDev
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/Aditya-RZPDev" />
+
+</p>
+
+---
+
+## Previous GitHub (SDE Intern - Razorpay) [ Aug 2025 - Jun 2026 ]
+
+https://github.com/Aditya-Dev404
+
+<p align="center">
+<img width="800" height="150" alt="image" src="https://github.com/user-attachments/assets/75ed558e-d078-4c0b-bcb6-fdfe5b29e87c" />
+
+<!-- <img src="https://ghchart.rshah.org/Aditya-Dev404" /> -->
+</p>
+
+---
+
 # 🚀 Current Focus
 
 - 🤖 AI-first Software Engineering
@@ -118,7 +157,7 @@ Building AI-powered products, scalable web applications, and high-performance sy
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,docker,kubernetes,aws,vercel" /><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,npm,jest,playwright,tensorflow" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,npm,jest,tensorflow" />
 
 </p>
 
@@ -172,46 +211,6 @@ A modern developer networking platform featuring authentication, profiles, conne
 - 🧠 Passionate about scalable software engineering and AI
 
 ---
-
-# 📊 Contribution Graph
-
-
-## Personal GitHub 
-
-https://github.com/Adityacheeze
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/Adityacheeze" />
-
-</p>
-
----
-
-## Current GitHub (AI Builder - Razorpay) [Jul 2026 - Present ]
-
-https://github.com/Aditya-RZPDev
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/Aditya-RZPDev" />
-
-</p>
-
----
-
-## Previous GitHub (SDE Intern - Razorpay) [ Aug 2025 - Jun 2026 ]
-
-https://github.com/Aditya-Dev404
-
-<p align="center">
-<img width="800" height="150" alt="image" src="https://github.com/user-attachments/assets/75ed558e-d078-4c0b-bcb6-fdfe5b29e87c" />
-
-<!-- <img src="https://ghchart.rshah.org/Aditya-Dev404" /> -->
-
----
-
-</p>
 
 # 📬 Connect With Me
 
