@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Mohan Gupta</h1>
 
 <h3 align="center">
-AI Builder + SDE @ Razorpay • Full Stack Engineer • Performance Engineering • Competitive Programmer
+AI Builder @ Razorpay • Full Stack Engineer • Performance Engineering • Competitive Programmer
 </h3>
 
 <p align="center">
@@ -40,7 +40,7 @@ Building AI-powered products, scalable web applications, and high-performance sy
 
 # 🚀 About Me
 
-- 💼 **AI Builder + SDE @ Razorpay**
+- 💼 **AI Builder @ Razorpay**
 - 🎓 B.Tech CSE (AI & ML) • KIET Group of Institutions (CGPA: **8.61**)
 - 🏆 **Knight** on LeetCode (Top **4.5%**)
 - ⚡ Solved **1600+ DSA Problems**
@@ -48,50 +48,6 @@ Building AI-powered products, scalable web applications, and high-performance sy
 - 🤖 Passionate about AI-powered software engineering, scalable backend systems and modern web technologies
 - 💡 Love building products using **Agentic SDLC**, AI coding assistants and developer automation
 - ⚙️ Strong interest in Performance Engineering, Developer Experience and Full Stack Development
-
----
-
-# 💼 Experience
-
-## 🤖 AI Builder | Razorpay
-
-**Present**
-
-- Building AI-powered software using **Agentic SDLC**
-- Leveraging AI coding agents to rapidly design, build and ship production-ready software
-- Working across frontend, backend and infrastructure
-- Building internal developer workflows powered by AI
-- Improving engineering productivity through automation
-
----
-
-## 💙 Software Development Engineer Intern | Razorpay
-
-**10 Months**
-
-- Built production features used by millions of Razorpay merchants
-- Improved website performance through CDN optimization and modern web standards
-- Worked extensively on Pricing Bundle, Growth Platform and Website Infrastructure
-- Improved AI readiness of Razorpay properties
-- Worked across React, TypeScript, Go, Node.js, CloudFront, Docker and Kubernetes
-- Collaborated across multiple engineering teams to ship high-impact production features
-
----
-
-## 🏛 PHP Developer Intern | Ministry of New & Renewable Energy (MNRE)
-
-- Developed backend features using Laravel, PHP and SQL
-- Improved backend performance and authentication systems
-- Worked on National Renewable Energy Portal
-
----
-
-## 🚆 Frontend Developer Intern | Velocis Systems
-
-- Built Government of India Railway Claims Tribunal Portal
-- Integrated multiple REST APIs
-- Developed reusable React components
-- Improved UI accessibility and user experience
 
 ---
 
@@ -122,7 +78,7 @@ https://github.com/Aditya-RZPDev
 
 ---
 
-## Previous GitHub (SDE Intern - Razorpay) [ Aug 2025 - Jun 2026 ]
+## SDE Intern  - Razorpay GitHub ID [ Aug 2025 - Jun 2026 ]
 
 https://github.com/Aditya-Dev404
 
